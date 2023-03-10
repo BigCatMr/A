@@ -1,19 +1,17 @@
 //
 //  ViewController.swift
-//  A
 //
-//  Created by admin on 2023/3/9.
+//  Created by MambaYong on 2021/12/7.
+//  Copyright © 2021 MambaYong. All rights reserved.
 //
 
 import UIKit
+import CTMediator
 
 class ViewController: UIViewController {
-
+    // MARK: Life Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        view.backgroundColor = .white
     }
-
-
 }
-
