@@ -1,0 +1,16 @@
+PODS:
+  - CTMediator (46)
+
+DEPENDENCIES:
+  - CTMediator
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CTMediator
+
+SPEC CHECKSUMS:
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
+
+PODFILE CHECKSUM: 532c7e161cc4e40a02e0d234387314af58ede42d
+
+COCOAPODS: 1.12.0
